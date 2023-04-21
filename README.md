@@ -1,3 +1,11 @@
+# Esse é um Desafio de Código de Kotlin
+
+- Esse desafio foi proposto pela DIO;
+- Mais para baixo você pode ler o desafio e entender oque se pede;
+- E pode ficar avontade para ver como eu resolvi esse desafio.
+
+---
+
 # Aprenda Kotlin Com Exemplos: Desafio de Projeto (Lab)
 
 Desafio de Projeto criado para avaliação do conteúdo técnico explorado no repositório [aprenda-kotlin-com-exemplos](https://github.com/digitalinnovationone/aprenda-kotlin-com-exemplos). **Nesse contexto, iremos abstrair o seguinte domínio de aplicação:**
